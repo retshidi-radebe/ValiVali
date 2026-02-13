@@ -392,6 +392,26 @@ export default function ValentinesProposal() {
           >
             <div className="prose prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300 leading-relaxed">
               <p className="text-lg sm:text-xl font-medium text-rose-700 dark:text-rose-300 mb-6 italic">
+                From the moment you walked into my life, everything changed for the better...
+              </p>
+
+              <p className="text-base sm:text-lg">
+                Fifi, my love, you are the most beautiful person I've ever known, inside and out. Your smile brightens my darkest days, your laugh is my favorite melody, and your love is the greatest gift I've ever received.
+              </p>
+
+              <p className="text-base sm:text-lg">
+                Every moment with you feels like a dream I never want to wake up from. You've shown me what true love means – it's patient, kind, and endlessly wonderful. With you, I've found my best friend, my confidante, and my soulmate all in one.
+              </p>
+
+              <p className="text-base sm:text-lg">
+                Today and every day, I want you to know that you are cherished beyond words. You make my heart skip a beat and fill my life with colors I never knew existed. I promise to love you with all my heart, to be there for you in every moment, and to cherish our beautiful journey together.
+              </p>
+              
+              <p className="text-lg sm:text-xl font-medium text-rose-700 dark:text-rose-300 mb-6 italic">
+                Thank you for being my Valentine, my love, my everything. I love you more than words could ever express.
+              </p>
+
+              <p className="text-lg sm:text-xl font-medium text-rose-700 dark:text-rose-300 mb-6 italic">
                 Five years of watching you, and this is what I've learned...
               </p>
 
@@ -400,11 +420,11 @@ export default function ValentinesProposal() {
               </p>
 
               <p className="text-base sm:text-lg">
-                I notice the way your eyes change when you talk about something you really care about. Not just the sparkle but the focus, the passion, the way your whole voice lifts. It's like watching a flame catch, even when you're trying to hide it. Maybe you don't realize it, but that passion is one of the most beautiful things about you.
+                I notice the way your eyes change when you talk about something you really care about. Not just the sparkle but the focus, the passion, the way your whole voice lifts. It's like watching/hearing a flame catch, even when you're trying to hide it. Maybe you don't realize it, but that passion is one of the most beautiful things about you.
               </p>
 
               <p className="text-base sm:text-lg">
-                I noticed your laugh, not the polite one you use when you're trying to be quiet but the real one. The one that takes over your whole body, the one you try to cover because you're scared it's too loud, too much. That laugh, it's the kind that makes people laugh by just hearing it. It fills the room in a way nothing else does.
+                I noticed your laugh, not the polite one you use when you're trying to be quiet but the real hyena one. The one that takes over your whole body, the one you try to cover because you're scared it's too loud, too much. That laugh, it's the kind that makes people laugh by just hearing it. It fills the room in a way nothing else does.
               </p>
 
               <p className="text-base sm:text-lg">
